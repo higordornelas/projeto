@@ -2,4 +2,4 @@
 
 Branch criada
 
-Pull Request
+Pull Request feita por outro usuário
